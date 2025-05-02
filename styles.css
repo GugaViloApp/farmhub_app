@@ -1,0 +1,36 @@
+
+body {
+  font-family: sans-serif;
+  background-color: #f5faf6;
+  text-align: center;
+}
+.logo {
+  display: block;
+  margin: 20px auto;
+  max-width: 150px;
+}
+.logo.small {
+  max-width: 100px;
+  margin-top: 40px;
+}
+.btn {
+  display: block;
+  width: 90%;
+  margin: 10px auto;
+  padding: 15px;
+  background-color: #163A6D;
+  color: white;
+  border: none;
+  border-radius: 15px;
+  font-size: 1.2em;
+  text-align: left;
+}
+
+a.link-button, .link-button {
+  text-decoration: none;
+}
+
+
+a, a *, .btn, .btn * {
+  text-decoration: none !important;
+}

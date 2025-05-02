@@ -1,0 +1,16 @@
+
+{
+  "name": "farmhub",
+  "short_name": "farmhub",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#f5faf6",
+  "theme_color": "#163A6D",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
